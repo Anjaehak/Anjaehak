@@ -26,17 +26,12 @@
     <Strong>Tech Stack</Strong><br>
 </p>
 
-<p align="center" display="inline-block">
+<p align="center">
 Language <br>
 <img src="https://img.shields.io/badge/JAVA-D91AF3?style=flat"/>
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=white"/>
 <img src="https://img.shields.io/badge/Html5-E34F26?style=flat&logo=html5&logoColor=white"/>
 </p>
 
-<p>
-Language <br>
-<img src="https://img.shields.io/badge/JAVA-D91AF3?style=flat"/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=white"/>
-<img src="https://img.shields.io/badge/Html5-E34F26?style=flat&logo=html5&logoColor=white"/>
-</p>
+
 
