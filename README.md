@@ -33,5 +33,5 @@ Language <br>
 <img src="https://img.shields.io/badge/Html5-E34F26?style=flat&logo=html5&logoColor=white"/>
 </p>
 <p>
-<img src="https://img.shields.io/badge/visualstudiocode#007ACC?style=flat&logo=visualstudiocode&logoColor=white"/>
+<img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white"/>
 </p>
