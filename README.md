@@ -27,7 +27,6 @@
 Language <br>
 <img src="https://img.shields.io/badge/JAVA-D91AF3?style=flat"/>
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=white"/>
-<img src="https://img.shields.io/badge/Html5-E34F26?style=flat&logo=html5&logoColor=white"/>
 </p>
 
 <p align="center">
@@ -59,6 +58,7 @@ Back-end <br>
 Front-end <br>
 <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=white"/>
 <img src="https://img.shields.io/badge/mustache-E0547D?style=flat"/>
+<img src="https://img.shields.io/badge/Html5-E34F26?style=flat&logo=html5&logoColor=white"/>
 </p>
 
 <p align="center">
